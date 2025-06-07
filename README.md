@@ -1,6 +1,13 @@
 # krunchpad
 A macropad powered by RP2040
 
+# Images
+
+| Schematic | PCB | 3D Preview | Case |
+|:---------:|:---:|:----:|:----:|
+| ![Schematic](https://raw.githubusercontent.com/RadioactivePotato/krunchpad/refs/heads/main/assets/schematic.png) | ![PCB](https://raw.githubusercontent.com/RadioactivePotato/krunchpad/refs/heads/main/assets/pcb.png) | ![3D-Front](https://raw.githubusercontent.com/RadioactivePotato/krunchpad/refs/heads/main/assets/3dfront.png) | ![Baseplate](https://raw.githubusercontent.com/RadioactivePotato/krunchpad/refs/heads/main/assets/cad.png) |
+| | | ![3D-Back](https://raw.githubusercontent.com/RadioactivePotato/krunchpad/refs/heads/main/assets/3dback.png) | |
+ 
 # BOM
 | Qty  | Item                          | Notes                     |
 |------|-------------------------------|---------------------------|
@@ -16,3 +23,5 @@ A macropad powered by RP2040
 | 1    | Soldering Iron + Solder       | Tools                     |
 | 1    | 3D Printed Case               | Custom enclosure          |
 | 1    | PCB                           |                           |
+|------|-------------------------------|---------------------------|
+| 12   | Kailh MX Hotswap Socket       |                           |
