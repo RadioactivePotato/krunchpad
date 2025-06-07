@@ -5,7 +5,7 @@ A macropad powered by RP2040
 
 | Schematic | PCB | 3D Preview | Case |
 |:---------:|:---:|:----:|:----:|
-| ![Schematic](https://raw.githubusercontent.com/RadioactivePotato/krunchpad/refs/heads/main/assets/schematic.png) | ![PCB](https://raw.githubusercontent.com/RadioactivePotato/krunchpad/refs/heads/main/assets/pcb.png) | ![3D-Front](https://raw.githubusercontent.com/RadioactivePotato/krunchpad/refs/heads/main/assets/3dfront.png) | ![Baseplate](https://raw.githubusercontent.com/RadioactivePotato/krunchpad/refs/heads/main/assets/cad-v1.1.png) |
+| ![Schematic](https://raw.githubusercontent.com/RadioactivePotato/krunchpad/refs/heads/main/assets/schematic.png) | ![PCB](https://raw.githubusercontent.com/RadioactivePotato/krunchpad/refs/heads/main/assets/pcb.png) | ![3D-Front](https://raw.githubusercontent.com/RadioactivePotato/krunchpad/refs/heads/main/assets/3dfront.png) | ![Baseplate](https://raw.githubusercontent.com/RadioactivePotato/krunchpad/refs/heads/main/assets/cad-v1.2.png) |
 | | | ![3D-Back](https://raw.githubusercontent.com/RadioactivePotato/krunchpad/refs/heads/main/assets/3dback.png) | |
 
 # Case
@@ -31,3 +31,16 @@ A macropad powered by RP2040
 | 1    | PCB                           |                           |
 |------|-------------------------------|---------------------------|
 | 12   | Kailh MX Hotswap Socket       |                           |
+
+# Cases
+- V1
+
+Simple base plate with slots for heatset inserts
+
+- V1.1
+
+Added holes for the PCB to sit flush with the case where there are THT componants
+
+- V1.2
+
+Added a support knob to support the PCB in the center of the case
