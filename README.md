@@ -5,7 +5,7 @@ A macropad powered by RP2040
 
 | Schematic | PCB | 3D Preview | Case |
 |:---------:|:---:|:----:|:----:|
-| ![Schematic](https://raw.githubusercontent.com/RadioactivePotato/krunchpad/refs/heads/main/assets/schematic.png) | ![PCB](https://raw.githubusercontent.com/RadioactivePotato/krunchpad/refs/heads/main/assets/pcb.png) | ![3D-Front](https://raw.githubusercontent.com/RadioactivePotato/krunchpad/refs/heads/main/assets/3dfront.png) | ![Baseplate](https://raw.githubusercontent.com/RadioactivePotato/krunchpad/refs/heads/main/assets/cad.png) |
+| ![Schematic](https://raw.githubusercontent.com/RadioactivePotato/krunchpad/refs/heads/main/assets/schematic.png) | ![PCB](https://raw.githubusercontent.com/RadioactivePotato/krunchpad/refs/heads/main/assets/pcb.png) | ![3D-Front](https://raw.githubusercontent.com/RadioactivePotato/krunchpad/refs/heads/main/assets/3dfront.png) | ![Baseplate](https://raw.githubusercontent.com/RadioactivePotato/krunchpad/refs/heads/main/assets/cad-v1.1.png) |
 | | | ![3D-Back](https://raw.githubusercontent.com/RadioactivePotato/krunchpad/refs/heads/main/assets/3dback.png) | |
 
 # Case
