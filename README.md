@@ -12,12 +12,12 @@ A macropad powered by RP2040
 
 | Layout | Layout | Layout |
 | :----: | :----: | :----: |
-| ![](https://raw.githubusercontent.com/RadioactivePotato/krunchpad/refs/heads/main/assets/case/case1.png) | ![](https://raw.githubusercontent.com/RadioactivePotato/krunchpad/refs/heads/main/assets/case/case2.png) | ![](https://raw.githubusercontent.com/RadioactivePotato/krunchpad/refs/heads/main/assets/case/case3.png) |
+| ![](https://raw.githubusercontent.com/RadioactivePotato/krunchpad/refs/heads/main/assets/case/case1-v1.3.png) | ![](https://raw.githubusercontent.com/RadioactivePotato/krunchpad/refs/heads/main/assets/case/case2.png) | ![](https://raw.githubusercontent.com/RadioactivePotato/krunchpad/refs/heads/main/assets/case/case3.png) |
 
 # BOM
 | Qty  | Item                          | Notes                     |
 |------|-------------------------------|---------------------------|
-| 1    | Seeed XIAO RP2040             | Microcontroller           |
+| 1    | Seeed Studio XIAO RP2040      | Microcontroller           |
 | 12   | THT 1N4148 Diode              | For switch matrix         |
 | 12   | MX-Style Switches             | Mechanical key switches   |
 | 1    | EC11 Rotary Encoder           | Volume control            |
@@ -44,3 +44,9 @@ Added holes for the PCB to sit flush with the case where there are THT componant
 - V1.2
 
 Added a support knob to support the PCB in the center of the case
+
+- V1.3
+
+Added slots for the socket for the MCU
+
+Removed the curved corners for the holes
