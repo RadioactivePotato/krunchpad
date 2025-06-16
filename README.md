@@ -30,6 +30,10 @@ A macropad powered by RP2040
 | 1    | 3D Printed Case               | Custom enclosure          |
 | 1    | PCB                           |                           |
 |------|-------------------------------|---------------------------|
+| 2    | 2.54mm 4POS Header (Included) | OLED Mounting             |
+| 2    | 2.54mm 4POS Socket            | OLED Mounting             |
+| 2    | 2.54mm 7POS Header            | MCU Mounting              |
+| 2    | 2.54mm 7POS Socket            | MCU Mounting              |
 | 12   | Kailh MX Hotswap Socket       | Hotswap                   |
 
 # Cases
