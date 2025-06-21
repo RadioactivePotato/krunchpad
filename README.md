@@ -23,8 +23,8 @@ A macropad powered by RP2040
 | 1    | EC11 Rotary Encoder           | Volume control            |
 | 1    | 0.91" OLED Display            |                           |
 | 12   | Keycaps                       |                           |
-| 12   | M3x5mmx4mm Heatset Inserts    | For mounting              |
-| 6    | M3x16mm Screws                | For case assembly         |
+| 5    | M3x5mmx4mm Heatset Inserts    | For mounting              |
+| 6    | M3 Screws (5.6mm Max)         | For case assembly         |
 |------|-------------------------------|---------------------------|
 | 1    | Soldering Iron + Solder       | Tools                     |
 | 1    | 3D Printed Case               | Custom enclosure          |
